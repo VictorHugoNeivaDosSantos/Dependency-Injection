@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "y0cp3/Xm8pgkDORsJIIPoDt/K7V76Wj7m/hLkDEDIFw50UyOy1ON80RDoH9BG5uB8rRmsVlAck2JVZTQCrqPLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADM\\source\\repos\\Injeção\\Injeção\\Injeção.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADM\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\ADM\\.nuget\\packages\\npgsql\\5.0.10\\npgsql.5.0.10.nupkg.sha512",
+    "C:\\Users\\ADM\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
